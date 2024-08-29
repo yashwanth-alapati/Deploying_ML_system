@@ -1,4 +1,4 @@
-This project involved several key tasks:
+This project was completed as part of a Machine Learning course and involved several key tasks:
 
 Evaluation of the Existing Model:
 
