@@ -7,8 +7,8 @@ I evaluated the model previously developed for classifying food images into vari
 Training New Models:
 
 I trained two new models:
-Accuracy-Optimized Model(ResNet50V2): Focused on maximizing classification accuracy, even if it slightly increased inference time.
-Latency-Optimized Model(MobileNet): Focused on minimizing inference latency, even if it meant sacrificing some accuracy.
+* Accuracy-Optimized Model(ResNet50V2): Focused on maximizing classification accuracy, even if it slightly increased inference time.
+* Latency-Optimized Model(MobileNet): Focused on minimizing inference latency, even if it meant sacrificing some accuracy.
 The models were fine-tuned using a dataset provided by GourmetGram, and saved for deployment.
 Design and Evaluation of Deployment "Recipes":
 
