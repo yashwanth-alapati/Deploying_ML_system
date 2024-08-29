@@ -4,9 +4,8 @@ Evaluation of the Existing Model:
 
 I evaluated the model previously developed for classifying food images into various categories. The evaluation focused on both accuracy and latency, identifying areas for improvement.
 
-Training New Models:
 
-I trained two new models:
+I trained two models:
 * Accuracy-Optimized Model(ResNet50V2): Focused on maximizing classification accuracy, even if it slightly increased inference time.
 * Latency-Optimized Model(MobileNet): Focused on minimizing inference latency, even if it meant sacrificing some accuracy.
 The models were fine-tuned using a dataset provided by GourmetGram, and saved for deployment.
